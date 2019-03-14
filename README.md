@@ -1,1 +1,1 @@
-# demo
+# Demo Google Fruit Store
